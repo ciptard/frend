@@ -6,8 +6,8 @@ Demo: [http://frend.bgrout.co.uk](http://frend.bgrout.co.uk)
 
 Features
 --------
-*	Proper content editing
-*	Backups
+*	Rich content editing in the front end - what you see is what you actually get
+*	Backup everytime you save
 
 
 System Requirements
