@@ -1,0 +1,3 @@
+<?php
+define('FREND_PASSWORD', '5f4dcc3b5aa765d61d8327deb882cf99'); //MD5 of your password
+define('FREND_DEMO_MDOE', false); //disables saving if true
